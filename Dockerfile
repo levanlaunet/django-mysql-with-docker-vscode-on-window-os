@@ -9,5 +9,4 @@ RUN set -e; apk add --no-cache --virtual .build-deps gcc libc-dev linux-headers 
 RUN pip install --upgrade pip && pip install -r requirements.txt && adduser --disabled-password --no-create-home app
 
 EXPOSE 8000
-
 USER app
