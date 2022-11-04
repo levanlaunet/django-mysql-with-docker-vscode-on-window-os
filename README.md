@@ -1,2 +1,3 @@
-# django-mysql-with-docker-vscode-on-window-os
-Django, MySql with Docker, VScode on Window OS
+# Django, MySql with Docker, VScode on Window OS
+
+### Blog: https://levanlau.net
